@@ -4,5 +4,5 @@
 How to frame the question and what questions to ask 
 How to get the approached solution to the problem 
 
-##Heading 2 
+## Heading 2 
 

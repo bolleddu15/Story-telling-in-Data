@@ -6,3 +6,5 @@ How to get the approached solution to the problem
 
 ## Heading 2 
 
+Getting the Insights from the Data and analyzing the problems for getting better solutions. 
+How to create Pivot tables 
